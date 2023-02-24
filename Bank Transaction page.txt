@@ -1,0 +1,5 @@
+#Transaction page
+# Day 2 code
+{
+print("Hii, Welcome to Transactions")
+}
